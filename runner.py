@@ -3,6 +3,7 @@ import sys
 import time
 
 import tictactoe as ttt
+# import ttt_ab_pruning as ttt
 
 pygame.init()
 size = width, height = 600, 400
